@@ -1,8 +1,8 @@
 ### Hi there, I am Mohith 👋
-
 ### 👩‍💻 About Me
 
 From a very young age, I was interested in computers. My main interests are artificial intelligence, but I appreciate other technologies like web development as well.
+In addition, I want to reach out to the community and gain new abilities that allow me to work in different situations.<br />
 In addition, I want to reach out to the community and gain new abilities that allow me to work in different situations.
 I am now working the on technologies related to full stack development and artificial intelligance
 
@@ -20,15 +20,10 @@ I am now working the on technologies related to full stack development and artif
 ![alt text](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![alt text](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![alt text](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)
-
 ### 📊 My Github Statistics:
-
-
 <a href="https://github.com/mohithsairamreddy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohithsairamreddy"&theme=radical&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithsairamreddy"&theme=radical&layout=compact" />
+  <img height="180m width="30%" src="https://github-readme-stats.vercel.app/api?username=mohithsairamreddy&theme=merko&show_icons=true" />
+  <img height="180em width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithsairamreddy&theme=merko&layout=compact" />
 </a>
-
-![](https://komarev.com/ghpvc/?username=mohithsairamreddy")
-
+![](https://komarev.com/ghpvc/?username=mohithsairamreddy)
 <br/>
