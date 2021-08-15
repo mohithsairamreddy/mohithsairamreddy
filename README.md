@@ -23,12 +23,12 @@ I am now working the on technologies related to full stack development and artif
 
 ### 📊 My Github Statistics:
 
+
 <a href="https://github.com/mohithsairamreddy">
-  <img height="180m width="30%" src="https://github-readme-stats.vercel.app/api?username=mohithsairamreddy&theme=merko&show_icons=true" />
-  <img height="180em width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithsairamreddy&theme=merko&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohithsairamreddy"&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithsairamreddy"&theme=radical&layout=compact" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=mohithsairamreddy)
+![](https://komarev.com/ghpvc/?username=mohithsairamreddy")
 
 <br/>
-
