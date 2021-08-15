@@ -3,8 +3,14 @@
 ### 👩‍💻 About Me
 
 From a very young age, I was interested in computers. My main interests are artificial intelligence, but I appreciate other technologies like web development as well.
-In addition, I want to reach out to the community and gain new abilities that allow me to work in different situations.<br />
+In addition, I want to reach out to the community and gain new abilities that allow me to work in different situations.
 I am now working the on technologies related to full stack development and artificial intelligance
+
+<ul>
+  <li>🌱 I’m currently learning Artificial intelligence and Web Development</li>
+  <li>📚 I am currently a member at AI@Amrita</li>
+  <li>🎓 Studying Computer Science Engineering at Amrita Vishwa Vidyapeetham.</li>
+</ul>
 
 ### 🛠 Languages and Tools:
 ![alt text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
