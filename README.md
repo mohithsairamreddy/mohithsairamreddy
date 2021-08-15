@@ -15,7 +15,7 @@ I am now working the on technologies related to full stack development and artif
 ![alt text](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![alt text](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-#### :octocat: My Github Statistics
+### 📊: My Github Statistics
 
 <a href="https://github.com/mohithsairamreddy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohithsairamreddy&theme=radical&show_icons=true" />
