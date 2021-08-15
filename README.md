@@ -31,5 +31,5 @@ I am now working on technologies related to full stack development and artificia
 </a>
 
 ![](https://komarev.com/ghpvc/?username=mohithsairamreddy)
-<br/>
+
 
