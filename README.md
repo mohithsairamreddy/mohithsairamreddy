@@ -12,7 +12,8 @@ I am now working on technologies related to full stack development and artificia
 </ul>
 
 ### 📱 Contact Me:
-
+[![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohith-sai-ram-reddy-9743531a6/)
+[![Gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohithsairamreddy@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
 ### 🛠 Languages and Tools:
