@@ -27,7 +27,7 @@ I am now working on technologies related to full stack development and artificia
 ### 📊 My Github Statistics:
 <a href="https://github.com/mohithsairamreddy">
   <img height="180m width="30%" src="https://github-readme-stats.vercel.app/api?username=mohithsairamreddy&show_icons=true&theme=merko"/>
-  <img height="180em width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithsairamreddy&theme=merko&layout=compact" />
+  <img height="180em width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithsairamreddy&theme=merko&layout=compact"/>
 </a>
 
 ![](https://komarev.com/ghpvc/?username=mohithsairamreddy)
