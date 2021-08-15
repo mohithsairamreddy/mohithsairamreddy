@@ -25,5 +25,6 @@ I am now working the on technologies related to full stack development and artif
   <img height="180m width="30%" src="https://github-readme-stats.vercel.app/api?username=mohithsairamreddy&theme=merko&show_icons=true" />
   <img height="180em width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithsairamreddy&theme=merko&layout=compact" />
 </a>
+
 ![](https://komarev.com/ghpvc/?username=mohithsairamreddy)
 <br/>
