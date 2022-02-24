@@ -26,7 +26,7 @@ I am now working on technologies related to full stack development and artificia
 ![alt text](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![alt text](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![alt text](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)
-![alt text](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=reactjs&logoColor=white)
+![alt text](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ### 📊 My Github Statistics:
 <a href="https://github.com/mohithsairamreddy">
   <img height="180em width="30%" src="https://github-readme-stats.vercel.app/api?username=mohithsairamreddy&show_icons=true&theme=merko"/>
