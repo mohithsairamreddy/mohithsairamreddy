@@ -1,4 +1,3 @@
-Readme · MD
 # Hi, I'm Mohith 👋
  
 **Data Engineer (SDE-2)** — I build and own real-time data platforms in production: CDC pipelines, dimensional warehouses, and the monitoring that keeps them trustworthy.
